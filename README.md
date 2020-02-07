@@ -49,7 +49,7 @@
 <p align="center"><img src="pictures/Screen%20Shot%202020-02-07%20at%2012.56.38%20PM.png" /></p>
 
 - Since the model predictions were continuous numeric results, I considered any prediction within a 0.5 range on either side of the actual rating as ‘accurate’, and graphed these results.
-    - *Again, we see here that the lowest rating shows interesting results.  The model also has trouble predicting a rating of 10 with the testing data.  One thing we do have to keep in mind here is that there are no predictions lower than 2 or higher than 10, so that could certainly be affecting these results.*
+    - *Again, we see here that the lowest rating shows interesting results.  The model also has trouble predicting a rating of 10 with the testing data.*
 
 ![Screen%20Shot%202020-02-07%20at%201.00.15%20PM.png](pictures/Screen%20Shot%202020-02-07%20at%201.00.15%20PM.png)
 
